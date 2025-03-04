@@ -1,0 +1,447 @@
+html, body {
+  overflow-x: hidden;
+}
+
+nav {
+    background-color: transparent;
+    background: linear-gradient(180deg, rgb(136, 86, 51) 77.5%, rgb(154, 144, 135) 97.5%);
+    
+}
+
+footer {
+    background-color: rgb(136, 86, 51);
+    position: relative;
+    top: 200px; 
+}
+
+.container.px-5 {
+  margin-top: 200px; 
+}
+
+
+
+.navbar-brand img {
+    max-width: 10vw;
+    min-width: 5vw;
+}
+
+.nav-text-current {
+    font-family: "Montserrat", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 1.5vw;
+}
+
+.nav-text {
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 1.5vw;
+}
+
+.nav-text-2 {
+    font-family: "Montserrat", Helvetica;
+    font-weight: 800;
+    color: rgb(136, 86, 51);
+    font-size: 1.5vw;
+}
+
+.img-body{
+    width: 100vw; 
+    max-width: 104.3%;
+    left: -2.1%;
+}
+
+.user{
+  width: 5vw;
+  height: 5vw;
+  color: transparent;
+  right: 5%;
+
+}
+
+.rectangle-7{
+    top: 0;
+    width: 100vw; 
+    max-width: 104.3%;
+    left: -2.1%;
+   
+}
+
+.text-wrapper-27{
+    font-size: 3vw;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 20vw;
+    /* width: 50vw; */
+    left: 30%;
+}
+
+.text-wrapper-17{
+    top: 60vw;
+  left: 40%;
+font-family: var(--semi-focal-font-font-family);
+font-weight: var(--semi-focal-font-font-weight);
+color: #885633;
+font-size: 4vw;
+letter-spacing: var(--semi-focal-font-letter-spacing);
+line-height: var(--semi-focal-font-line-height);
+white-space: nowrap;
+font-style: var(--semi-focal-font-font-style);
+}
+
+.branded-apparel{
+    top: 68vw;
+    left: 43%;
+    font-family: "Bebas Neue", Helvetica;
+  font-weight: 600;
+  color: #885633;
+  font-size: 2vw;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.line{
+    top: 67vw;
+    left: 10%;
+    max-width: 80%; 
+    width: auto;
+    height: auto;
+}
+
+.line-2{
+    top: 72vw;
+    left: 10%;
+    max-width: 80%; 
+    width: auto;
+    height: auto;
+}
+
+.product-card {
+    width: 25%;
+    height: 40vw;
+    /* background-color: rgb(136, 86, 51); */
+    color: white;
+    box-shadow: 7px 37px 55px #00000040, 0px -54px 200px #00000040;
+}
+
+
+.product-card-name {
+    font-family: "Montserrat", Helvetica;
+    font-size: 1.5vw;
+    background: linear-gradient(180deg, rgb(136, 86, 51) 13.5%, rgb(154, 144, 135) 100%);
+    -webkit-background-clip: text !important;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 700;
+    color: transparent;
+    letter-spacing: 0;
+    white-space: nowrap;
+}
+
+.product-card-name-1 {
+    font-family: "Montserrat", Helvetica;
+    font-weight: 500;
+    color: #4682b4;
+    font-size: 1.2vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .product-card-name-2 {
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: #4682b4;
+  font-size: 0.7vw;
+  letter-spacing: 0;
+  line-height: normal;
+  }
+
+  .product-card-img{
+    height: 21vw;
+  }
+
+  .product-card-img-1{
+    height: 21vw;
+  }
+
+  .product-card-img-2{
+    height: 21vw;
+
+  }
+
+  .product-card-name-3 {
+    font-family: "Montserrat", Helvetica;
+    font-weight: 700;
+    color: #885633;
+    font-size: 0.8vw;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 65%;
+  }
+
+  .overlay{
+    background-color: #ffffff;
+  }
+  
+
+  .group-2{
+   width: 25%;
+   left: 1vw;
+   top: 55%;
+  }
+
+  .btn-q{
+    background-color: #dfeaef;
+    width: 30%;
+    height: 2vw;
+    top: 80%;
+    right: 2vw;
+    
+  }
+  .quote{
+    font-family: "Montserrat", Helvetica;
+    font-weight: 600;
+    color: #885633;
+    font-size: 0.7vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 8%;
+
+  }
+
+  .text-wrapper-4{
+    font-family: "Montserrat", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 0.8vw;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .overlap-group{
+    width: 38%;
+    height: 1.2vw;
+    background-color: #885633;
+    top: 83%;
+  }
+
+  .product-card-1{
+    width: 25%;
+    height: 40vw;
+    color: white;
+    box-shadow: 7px 37px 55px #00000040, 0px -54px 200px #00000040;
+}
+
+.product-card-2{
+    width: 25%;
+    height: 40vw;
+    color: white;
+    box-shadow: 7px 37px 55px #00000040, 0px -54px 200px #00000040;
+}
+
+.branded-apparel-2 {
+    left: 20%;
+    top: 10vw;
+    font-family: "Bebas Neue", Helvetica;
+    font-weight: 400;
+    color: #885633;
+    font-size: 2vw;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 1%;
+  }
+
+  .text-wrapper-16{
+    font-weight: 600;
+  }
+
+ 
+  .line-3{
+    top: 10vw;
+    left: 12%;
+    max-width: 80%; 
+    width: auto;
+    height: auto;
+}
+
+.line-41{
+    top: 14vw;
+    left: 12%;
+    max-width: 80%; 
+    width: auto;
+    height: auto;
+}
+
+.text-wrapper-19 {
+    top: 18vw;
+    left: 43%;
+    font-family: var(--semi-focal-font-font-family);
+    font-weight: var(--semi-focal-font-font-weight);
+    color: #885633;
+    font-size: 4vw;
+    letter-spacing: var(--semi-focal-font-letter-spacing);
+    line-height: var(--semi-focal-font-line-height);
+    white-space: nowrap;
+    font-style: var(--semi-focal-font-font-style);
+  }
+
+  .img-news {
+    width: 100%;
+    margin-top: 70%;
+    margin-left: 0;
+}
+
+.news-body {
+      background-color: #d3505763;
+      height: 50%; 
+      position: absolute;
+      top: 80%; 
+      left: 0;
+      width: 100%;
+      transform: translateY(-50%); 
+  
+}
+
+
+
+
+.vector-6 {
+  position: absolute;
+  right: 2%;
+  top: 45%;
+  max-width: 50%;
+  margin-bottom: 50px;
+  position: relative;
+}
+
+.text-sub {
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: #d04d4d;
+  font-size: 3vw;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 45vw;
+  margin-left: 3vw;
+}
+
+.text-news {
+  background: linear-gradient(180deg, rgb(136, 86, 51) 13.5%, rgb(154, 144, 135) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 800;
+  color: transparent;
+  font-size: 5vw;
+  margin-top: 2vw;
+  margin-left: 3.5vw;
+  line-height: normal;
+}
+
+.text-email {
+  font-family: "Montserrat", Helvetica;
+  color: #000000;
+  font-size: 1.7vw;
+  font-weight: lighter;
+  letter-spacing: 0;
+  line-height: normal;
+  top: 60vw;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.line-5 {
+  position: absolute;
+  top: 63vw;
+  left: 12vw;
+  max-width: 80%; 
+  width: auto;
+  height: auto;
+ 
+}
+
+.group-20 {
+
+    position: absolute;
+    top: 67vw;
+    left: 50%; 
+    transform: translateX(-50%);
+}
+
+.copyright-text {
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: rgb(136, 86, 51);
+  font-size: 2vw;
+}
+
+.social-media {
+  width: 3vw;
+}
+
+.payment-methods {
+  background-color: #ccc;
+}
+
+.payment {
+  width: 5vw;
+}
+
+.footer-links {
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: white;
+  background-color: rgb(136, 86, 51);
+  font-size: 1.5vw;
+}
+
+.text-wrapper-3 {
+  font-family: "Bebas Neue", Helvetica;
+  font-weight: 500;
+  color: rgb(136, 86, 51);
+  font-size: 2vw;
+  
+}
+
+.text-wrapper-41 {
+  font-family: "Bebas Neue", Helvetica;
+  font-weight: 400;
+  color: #d04d4d;
+  font-size: 1.5vw;
+}
+
+.wrap{
+  margin-left: 20%;
+}
+
+.sub-btn{
+  width: fit-content;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  overflow: hidden;
+  border: 3px solid;
+  border-color: #ffffff;
+  box-shadow: 0px 11px 45px #00000040;
+  background: linear-gradient(180deg, rgb(136, 86, 51) 13.5%, rgb(154, 144, 135) 100%);
+  font-size: 2.5vw;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 45%;
+  height: 6vw;
+  padding-top: 1.5vw;
+  top: 65vw; 
+  right: 25%; 
+}

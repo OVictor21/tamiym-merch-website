@@ -1,0 +1,482 @@
+html body{
+overflow-x: hidden;
+}
+
+nav {
+    background-color: transparent;
+    background: linear-gradient(180deg, rgb(136, 86, 51) 77.5%, rgb(154, 144, 135) 97.5%);
+    /* position: relative;
+    left: 0.9vw; */
+  
+  }
+  
+  footer {
+    background-color: rgb(136, 86, 51);
+    position: relative;
+    top: 140vw;
+    left: 0.2vw;
+  }
+
+  .container.px-5 {
+    margin-top: 140vw; 
+  }
+  
+  .navbar-brand img {
+    max-width: 10vw;
+    min-width: 5vw;
+  }
+  
+  .nav-text-current {
+    font-family: "Montserrat", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 1.5vw;
+  }
+  
+  .nav-text {
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 1.5vw;
+  }
+  
+  .nav-text-2 {
+    font-family: "Montserrat", Helvetica;
+    font-weight: 800;
+    color: rgb(136, 86, 51);
+    font-size: 1.5vw;
+  }
+
+  
+  .user{
+    width: 5vw;
+    height: 5vw;
+    color: transparent;
+    right: 5%;
+  
+  }
+
+  .vect {
+    right: 0;
+    top: -20%;
+    width: 10%;
+    z-index: 2;
+  }
+
+  .part{
+    top:10vw;
+    left: 3%;
+    color: rgb(136, 86, 51);
+    font-family: "Bebas Neue", Helvetica;
+    font-weight: 700;
+    font-size: 3vw;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .line{
+    width: 95%;
+    height: 3px;
+    top: 16vw;
+    left: 3%;
+  }
+  
+  .line-1{
+    width: 95%;
+    height: 3px;
+    top: 17vw;
+    left: 3%;
+  }
+  
+  .part-1{
+    top:25vw;
+    left: 3%;
+    color: rgb(136, 86, 51);
+    font-family: "Bebas Neue", Helvetica;
+    font-size: 3vw;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+
+  .box{
+    width: 95%;
+    height: 50vw;
+    top: 30vw;
+    left: 2.5%;
+    z-index: 2;
+    overflow: hidden;
+    border-color: white;
+    /* box-shadow: 0px 11px 45px #00000040; */
+   }
+
+   .preview{
+    font-size: 2vw;
+    width: 14vw;
+    height: 3.2vw;
+    text-align: center;
+    color: rgb(136, 86, 51);
+    font-weight: 700;
+    background-color: white;
+    left: 25%;
+    z-index: 1;
+   }
+  
+   .sweat{
+    width: 65%;
+    height: 50vw;
+    /* max-height: 100vw; */
+   }
+
+   .color-buttons {
+    height: 50vw;
+    /* overflow-y: auto;  */
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    left: 65%;
+    top: 0;
+    width: 20%;
+    border-color:  rgb(136, 86, 51); ;
+    background-color: #dfeaef;
+  }
+
+  .color-text{
+    font-size: 2vw;
+    width: 14vw;
+    height: 3.2vw;
+    text-align: center;
+    color: rgb(136, 86, 51);
+    font-weight: 700;
+    background-color: white;
+    left: 8%;
+    z-index: 1;
+   }
+  
+  .color-button {
+    display: block;
+    margin-bottom: 10%;
+    margin-top: 40%;
+    width: 80%;
+    height: 8vw;
+    margin-left: 10%;
+    border: none;
+    background-color: #ffc200;
+    border: 5px solid #ffffff;
+  }
+
+  .color-button-1 {
+    display: block;
+    margin-bottom: 10%;
+    width: 80%;
+    height: 8vw;
+    margin-left: 10%;
+    border: none;
+    background-color: #885633;
+    border: 5px solid;
+    border-color: #ffffff;
+    
+  }
+
+  .color-button-2 {
+    display: block;
+    margin-bottom: 10%;
+    width: 80%;
+    height: 8vw;
+    margin-left: 10%;
+    border: none;
+    background-color: #fefefe;
+    border: 5px solid;
+    border-color: #d9d9d9;
+  }
+
+  .color-button-3 {
+    display: block;
+    margin-bottom: 10%;
+    width: 80%;
+    height: 8vw;
+    margin-left: 10%;
+    border: none;
+    background-color: #000000;
+    border: 5px solid;
+    border-color: #ffffff;
+  }
+
+  .color-button-4 {
+    display: block;
+    margin-bottom: 10%;
+    width: 80%;
+    height: 8vw;
+    margin-left: 10%;
+    border: none;
+    background-color: #df1919;
+    border: 5px solid;
+    border-color: #d9d9d9;
+  }
+
+  .color-button-5 {
+    display: block;
+    margin-bottom: 10%;
+    width: 80%;
+    height: 8vw;
+    margin-left: 10%;
+    border: none;
+    background-color: #1e53e2;
+    border: 5px solid;
+    border-color: #d9d9d9;
+  }
+ 
+  .control {
+    height: 90%;
+    max-height: 100vw;
+    left: 85%;
+    top: 0;
+    width: 20%;
+    border-color:  rgb(136, 86, 51); ;
+    background-color: #ffffff;
+  }
+
+
+  .control-text{
+    font-size: 2vw;
+    width: 14vw;
+    height: 3.2vw;
+    text-align: center;
+    color: rgb(136, 86, 51);
+    font-weight: 700;
+    background-color: white;
+    left: 0;
+    z-index: 1;
+   }
+
+   #uploadButton {
+    background-image: url(./img/camera.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    border:none ;
+    width: 4.2vw;
+    height: auto;
+    min-height: 50px;
+    right: 8.8vw;
+    top: 11.9vw;
+    position: absolute;
+    z-index: 2;
+    background-color:transparent;
+}
+
+.img-l{
+  width: 35%;
+  height: 8vw;
+  right: 8.1vw;
+  top: 10vw;
+  position: relative;
+}
+
+#fileInput {
+    display: none;
+}
+
+.import-text{
+  font-size: 2vw;
+  color: rgb(136, 86, 51);
+  right: 6vw; 
+  top: 18.3vw;
+}
+
+#savemerch{
+  background-image: url(./img/fi-rr-checkbox.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  border:none ;
+  width: 4.2vw;
+  height: auto;
+  min-height: 50px;
+  right: 8.8vw;
+  top: 35vw;
+  position: absolute;
+  z-index: 2;
+  background-color:transparent;
+}
+
+.img-2{
+width: 35%;
+height: 8vw;
+right: 8.1vw;
+top: 33vw;
+position: relative;
+}
+
+.save-text{
+  font-size: 2vw;
+  color: rgb(136, 86, 51);
+  right: 6vw; 
+  top: 40vw;
+}
+
+
+.sweat-img{
+  width: 20%;
+  height: 15vw;
+  top: 90vw;
+  left: 3vw;
+
+}
+
+.sweat-img-1{
+  width: 20%;
+  height: 15vw;
+  top: 90vw;
+  left: 27vw;
+
+}
+
+.sweat-img-2{
+  width: 20%;
+  height: 15vw;
+  top: 90vw;
+  right:27vw;
+  border-color: rgb(136, 86, 51);
+
+}
+
+.sweat-img-3{
+  width: 20%;
+  height: 15vw;
+  top: 90vw;
+  right: 3vw;
+}
+
+
+.price{
+  font-size: 4vw;
+  font-weight: 700;
+  top: 110vw;
+  left: 7%;
+}
+
+.price-tag{
+  font-size: 2vw;
+  font-weight: 400;
+  top: 112vw;
+  left: 20%;
+}
+
+.quantity{
+  font-size: 3vw;
+  font-weight: 400;
+  top: 117vw;
+  left: 7%;
+}
+
+.quantity-input{
+  top: 118vw;
+  left: 23%;
+  width: 20%;
+  height: 3vw;
+  border: none;
+}
+
+.totalprice{
+  font-size: 3vw;
+  font-weight: 400;
+  top: 123vw;
+  left: 7%;
+}
+
+.totalprice-1{
+  font-size: 2vw;
+  font-weight: 400;
+  top: 124vw;
+  left: 23%;
+}
+
+.order{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10vw;
+  padding: 2vw 6vw;
+  position: absolute;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 3px solid;
+  border-color: #ffffff;
+  box-shadow: 0px 11px 45px #00000040;
+  background: linear-gradient(180deg, rgb(136, 86, 51) 13.5%, rgb(154, 144, 135) 100%);
+  width: fit-content;
+  margin-top: -3px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 2vw;
+  letter-spacing: 0;
+  line-height: normal;
+  top: 130vw;
+  left: 7%;
+}
+
+.copyright-text {
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: rgb(136, 86, 51);
+  font-size: 2vw;
+}
+
+.social-media {
+  width: 3vw;
+}
+
+.payment-methods {
+  background-color: #ccc;
+}
+
+.payment {
+  width: 5vw;
+}
+
+.footer-links {
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: white;
+  background-color: rgb(136, 86, 51);
+  font-size: 1.5vw;
+}
+
+.text-wrapper-3 {
+  font-family: "Bebas Neue", Helvetica;
+  font-weight: 500;
+  color: rgb(136, 86, 51);
+  font-size: 2vw;
+  
+}
+
+.text-wrapper-41 {
+  font-family: "Bebas Neue", Helvetica;
+  font-weight: 400;
+  color: #d04d4d;
+  font-size: 1.5vw;
+}
+
+.wrap{
+  margin-left: 20%;
+}
+
+.sub-btn{
+  width: fit-content;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  overflow: hidden;
+  border: 3px solid;
+  border-color: #ffffff;
+  box-shadow: 0px 11px 45px #00000040;
+  background: linear-gradient(180deg, rgb(136, 86, 51) 13.5%, rgb(154, 144, 135) 100%);
+  font-size: 2.5vw;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 45%;
+  height: 6vw;
+  padding-top: 1.5vw;
+  top: 65vw; 
+  right: 25%; 
+}

@@ -1,0 +1,326 @@
+html body{
+    overflow-x: hidden
+}
+
+nav {
+    background-color: transparent;
+    background: linear-gradient(180deg, rgb(136, 86, 51) 77.5%, rgb(154, 144, 135) 97.5%);
+    
+}
+
+.navbar-brand img {
+    max-width: 10vw;
+    min-width: 5vw;
+}
+
+.nav-text-current {
+    font-family: "Montserrat", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 1.5vw;
+}
+
+.nav-text {
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 1.5vw;
+}
+
+.nav-text-2 {
+    font-family: "Montserrat", Helvetica;
+    font-weight: 800;
+    color: rgb(136, 86, 51);
+    font-size: 1.5vw;
+}
+
+.user{
+    width: 5vw;
+    height: 5vw;
+    color: transparent;
+    right: 5%;
+  
+  }
+
+  .sign-in{
+    width: 75vw;
+    height: 90vw;
+    box-shadow: 7px 37px 55px #00000040, 0px -54px 200px #00000040;
+    left: 10vw;
+    top: 20vw;
+    overflow: hidden;
+}
+
+
+.text{
+    top: 10vw;
+    left: 6vw;
+    background: linear-gradient(180deg, rgb(136, 86, 51) 13.5%, rgb(154, 144, 135) 100%);
+    -webkit-background-clip: text !important;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: transparent;
+    font-size: 4vw;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.vector-1{
+    width: 15%; 
+    height: auto; 
+    left: 3vw; 
+    top: -16vw;
+    
+}
+
+.text-wrapper-8 {
+    background: linear-gradient(180deg, rgb(136, 86, 51) 13.5%, rgb(154, 144, 135) 100%);
+    -webkit-background-clip: text !important;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: transparent;
+    font-size: 4vw;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 20vw;
+    left: 6vw;
+}
+
+.p {
+    font-family: "Montserrat-Regular", Helvetica;
+    color: #00000061;
+    font-size: 2vw;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 15vw;
+    left: 6vw;
+}
+
+.fname{
+    top: 19vw;
+    left: 6vw;
+}
+
+.fname-in{
+    top: 23vw;
+    left: 6vw;
+    width: 37%;
+    height: 5%;
+}
+
+.lname{
+    top: 19vw;
+    right: 30vw;
+}
+
+.lname-in{
+    top: 23vw;
+    right: 9vw;
+    width: 37%;
+    height: 5%;
+}
+
+.email{
+    top: 30vw;
+    left: 6vw;
+}
+
+
+.email-in{
+    top: 35vw;
+    left: 6vw;
+    width: 80%;
+    height: 5%;
+}
+
+.pass{
+    top: 42vw;
+    left: 6vw;
+}
+
+.pass-in{
+    top: 46vw;
+    left: 6vw;
+    width: 80%;
+    height: 5%;
+}
+
+.email-text{
+    font-size: 1.2vw;
+}
+.pass-text{
+  font-size: 1.2vw;
+}
+
+.lname-text{
+    font-size: 1.2vw;
+}
+.fname-text{
+  font-size: 1.2vw;
+}
+
+.text-area{
+ width: 80%;
+ top: 53vw;
+ left: 6vw;
+ height: 15%;
+}
+
+
+.sign-btn{
+    background: linear-gradient(180deg, rgb(136, 86, 51) 13.5%, rgb(154, 144, 135) 100%);
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 4vw;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 80%;
+    top: 70vw;
+    left: 6vw;
+    box-shadow: 0px 22px 75px #00000040;
+}
+
+.acct{
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 2vw;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 65vw;
+    left: 15vw;
+}
+
+.acct-1{
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #885633;
+    font-size: 2vw;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 65vw;
+    right: 25vw;
+}
+
+.text-wrapper-17{
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #00000061;
+    font-size: 2vw;
+    letter-spacing: 0;
+    line-height: normal;
+    top: 70vw;
+    left: 35vw;
+}
+
+
+
+.icon{
+    width: 5vw;   
+    top: 75vw;
+    left: 24vw;
+}
+
+.icon-1{
+    width: 5vw;   
+    top: 75vw;
+    left: 34vw;
+}
+
+.icon-2{
+    width: 5vw;   
+    top: 75vw;
+    left: 45vw;
+}
+
+footer {
+    background-color: rgb(136, 86, 51);
+    position: relative;
+    top: 30vw;
+
+  }
+
+  .container.px-5 {
+    margin-top: 30vw; 
+  }
+  
+
+.text-wrapper-8 {
+    font-family: "Bebas Neue", Helvetica;
+    font-weight: 300;
+    color: rgb(136, 86, 51);
+    font-size: 2vw;
+}
+
+.text-wrapper-9 {
+    font-family: "Bebas Neue", Helvetica;
+    font-weight: 500;
+    color: rgb(230, 104, 76);
+    font-size: 2vw;
+    padding: 5%;
+
+}
+
+.text-wrapper-91 {
+    font-family: "Bebas Neue", Helvetica;
+    font-weight: 500;
+    color: rgb(230, 104, 76);
+    font-size: 2vw;
+   
+   
+    
+}
+
+
+.copyright-text {
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: rgb(136, 86, 51);
+    font-size: 2vw;
+  }
+  
+  .social-media {
+    width: 3vw;
+  }
+  
+  .payment-methods {
+    background-color: #ccc;
+  }
+  
+  .payment {
+    width: 5vw;
+  }
+  
+  .footer-links {
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: white;
+    background-color: rgb(136, 86, 51);
+    font-size: 1.5vw;
+  }
+  
+  .text-wrapper-3 {
+    font-family: "Bebas Neue", Helvetica;
+    font-weight: 500;
+    color: rgb(136, 86, 51);
+    font-size: 2vw;
+    
+  }
+  
+  .text-wrapper-41 {
+    font-family: "Bebas Neue", Helvetica;
+    font-weight: 400;
+    color: #d04d4d;
+    font-size: 1.5vw;
+  }
+  
+  .wrap{
+    margin-left: 20%;
+  }

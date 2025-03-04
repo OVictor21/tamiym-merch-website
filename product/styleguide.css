@@ -1,0 +1,26 @@
+:root {
+  --semi-focal-font-font-family: "Bebas Neue", Helvetica;
+  --semi-focal-font-font-weight: 700;
+  --semi-focal-font-font-size: 64px;
+  --semi-focal-font-letter-spacing: 0px;
+  --semi-focal-font-line-height: normal;
+  --semi-focal-font-font-style: normal;
+  --demi-focal-font-font-family: "Bebas Neue", Helvetica;
+  --demi-focal-font-font-weight: 400;
+  --demi-focal-font-font-size: 30px;
+  --demi-focal-font-letter-spacing: 0px;
+  --demi-focal-font-line-height: normal;
+  --demi-focal-font-font-style: normal;
+  --buton-font-family: "Montserrat", Helvetica;
+  --buton-font-weight: 700;
+  --buton-font-size: 32px;
+  --buton-letter-spacing: 0px;
+  --buton-line-height: normal;
+  --buton-font-style: normal;
+  --body-text-font-family: "Montserrat", Helvetica;
+  --body-text-font-weight: 400;
+  --body-text-font-size: 40px;
+  --body-text-letter-spacing: 0px;
+  --body-text-line-height: normal;
+  --body-text-font-style: normal;
+}

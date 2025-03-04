@@ -1,0 +1,347 @@
+html body{
+    overflow-x: hidden;
+}
+
+h3 {
+    background: -webkit-linear-gradient(rgb(136, 86, 51), rgb(209, 174, 149));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 4vw;
+}
+
+nav {
+    background-color: transparent;
+    background: linear-gradient(180deg, rgb(136, 86, 51) 77.5%, rgb(154, 144, 135) 97.5%);
+    
+}
+
+.navbar-brand img {
+    max-width: 10vw;
+    min-width: 5vw;
+}
+
+.nav-text-current {
+    font-family: "Montserrat", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 1.5vw;
+}
+
+.nav-text {
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 1.5vw;
+}
+
+.nav-text-2 {
+    font-family: "Montserrat", Helvetica;
+    font-weight: 800;
+    color: rgb(136, 86, 51);
+    font-size: 1.5vw;
+}
+
+.user{
+    width: 5vw;
+    height: 5vw;
+    right: 8%;
+}
+
+.vector{
+    width: 25%;
+    height: 45%;
+    right: 0;
+    top: 0;
+}
+
+ .text-wrapper-2 {
+    top: 25vw;
+    left: 8vw;
+    font-family: "Bebas Neue-Regular", Helvetica;
+    font-weight: 600;
+    color: #885633;
+    font-size: 3vw;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+
+}
+
+.text-wrapper-3 {
+    top: 36vw;
+    left: 8vw;
+    font-family: "Bebas Neue-Regular", Helvetica;
+    font-weight: 600;
+    color: #885633;
+    font-size: 3vw;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+
+ .line {
+    width: 90%;
+    height: 3px;
+    top: 31vw;
+    position: absolute;
+    left: 8vw;
+}
+
+.line-2 {
+    width: 90%;
+    height: 3px;
+    top: 32vw;
+    position: absolute;
+    left: 8vw;
+} 
+
+.weaving-threads-of {
+    width: 90%;
+    top: 42vw;
+    left: 8vw;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    color: #885633;
+    font-size: 2vw;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.thread{
+    font-weight: 600;
+    font-size: 2vw;
+}
+
+.text-wrapper-4 {
+    top: 130vw;
+    left: 8vw;
+    font-family: "Bebas Neue-Regular", Helvetica;
+    font-weight: 600;
+    color: #885633;
+    font-size: 3vw;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+
+}
+
+
+ .line-3 {
+    width: 90%;
+    height: 3px;
+    top: 137vw;
+    position: absolute;
+    left: 8vw;
+}
+
+.line-4 {
+    width: 90%;
+    height: 3px;
+    top: 138vw;
+    position: absolute;
+    left: 8vw;
+} 
+
+.products {
+    height: 40vw;
+  
+}
+
+.products-bg {
+    top: 100%;
+    right: 0;
+    width: 90%;
+    height: 50%;
+    background-color: #e8ded1;
+}
+
+.products-list {
+    top: 145vw;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    
+}
+
+.product-card {
+    width: 30%;
+    height: 90%;
+    background-color: rgb(136, 86, 51);
+    color: white;
+    box-shadow: 7px 37px 55px #00000040, 0px -54px 200px #00000040;
+}
+
+
+.product-card-name2 {
+    font-family: "Montserrat", Helvetica;
+    font-weight: 600;
+    font-size: 2vw;
+}
+
+
+.product-card-price {
+    font-family: "Montserrat", Helvetica;
+    font-weight: 300;
+    font-size: 1.5vw;
+
+}
+
+.group-14{
+    height: 10%;
+    width: 40%;
+}
+
+.card-img-top {
+    height: 60%; 
+}
+
+.text-wrapper-5 {
+    top: 150vw;
+    left: 8vw;
+    font-family: "Bebas Neue-Regular", Helvetica;
+    font-weight: 700;
+    color: #885633;
+    font-size: 3vw;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+
+}
+
+
+ .line-5 {
+    width: 90%;
+    height: 3px;
+    top: 157vw;
+    position: absolute;
+    left: 8vw;
+}
+
+.line-6 {
+    width: 90%;
+    height: 3px;
+    top: 158vw;
+    position: absolute;
+    left: 8vw;
+} 
+
+.at-tamiym-we-are{
+    width: 90%;
+    top: 162vw;
+    left: 8vw;
+    font-weight: 600;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    color: #885633;
+    font-size: 2vw;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+
+ 
+footer {
+    background-color: rgb(136, 86, 51);
+    position: relative;
+    top: 190vw;
+    left: 0.2vw;
+  }
+
+  .container.px-5 {
+    margin-top: 190vw; 
+  }
+  
+
+.text-wrapper-8 {
+    font-family: "Bebas Neue", Helvetica;
+    font-weight: 300;
+    color: rgb(136, 86, 51);
+    font-size: 2vw;
+}
+
+.text-wrapper-9 {
+    font-family: "Bebas Neue", Helvetica;
+    font-weight: 500;
+    color: rgb(230, 104, 76);
+    font-size: 2vw;
+    padding: 5%;
+
+}
+
+.text-wrapper-91 {
+    font-family: "Bebas Neue", Helvetica;
+    font-weight: 500;
+    color: rgb(230, 104, 76);
+    font-size: 2vw;
+   
+   
+    
+}
+
+
+.copyright-text {
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: rgb(136, 86, 51);
+    font-size: 2vw;
+  }
+  
+  .social-media {
+    width: 3vw;
+  }
+  
+  .payment-methods {
+    background-color: #ccc;
+  }
+  
+  .payment {
+    width: 5vw;
+  }
+  
+  .footer-links {
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: white;
+    background-color: rgb(136, 86, 51);
+    font-size: 1.5vw;
+  }
+  
+  .text-wrapper-3 {
+    font-family: "Bebas Neue", Helvetica;
+    font-weight: 500;
+    color: rgb(136, 86, 51);
+    font-size: 2vw;
+    
+  }
+  
+  .text-wrapper-41 {
+    font-family: "Bebas Neue", Helvetica;
+    font-weight: 400;
+    color: #d04d4d;
+    font-size: 1.5vw;
+  }
+  
+  .wrap{
+    margin-left: 20%;
+  }
+  
+  .sub-btn{
+    width: fit-content;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    overflow: hidden;
+    border: 3px solid;
+    border-color: #ffffff;
+    box-shadow: 0px 11px 45px #00000040;
+    background: linear-gradient(180deg, rgb(136, 86, 51) 13.5%, rgb(154, 144, 135) 100%);
+    font-size: 2.5vw;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 45%;
+    height: 6vw;
+    padding-top: 1.5vw;
+    top: 65vw; 
+    right: 25%; 
+  }
